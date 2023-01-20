@@ -1,0 +1,82 @@
+body {
+    margin: 20px;
+    padding-left: 20px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.main-container div {
+    margin-right: 20%;
+}
+
+.first-line {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.second-line {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.third-line {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.forth-line {
+    display: flex;
+    justify-content: space-between;
+
+}
+img {
+    width:200%;
+    height: auto;
+    margin: 70px;
+}
+
+button #navbar{
+    background-color: rgb(89, 86, 83);
+    border: 25px;
+    padding: 10px;
+
+}
+
+#navbar {
+    margin-left: 10px;
+    background-color: rgb(222, 213, 213);
+    border-radius: none;
+    padding: 10px;
+    margin-bottom: 3px;
+}
+
+a{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#hotel-options {
+    margin-bottom: 80px;
+    padding: 20px;
+    width: 150px;
+    margin-left: 10px;
+    color: rgb(75, 73, 71);
+    font-size: smaller;
+    font-weight: 400;
+}
